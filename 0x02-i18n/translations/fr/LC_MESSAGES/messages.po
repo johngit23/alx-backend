@@ -18,17 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
+#: html home title
 msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 
+#: html home header
 msgid "home_header"
 msgstr "Bonjour monde!"
 
+#: logged in as
 msgid "logged_in_as"
 msgstr "Vous êtes connecté en tant que %(username)s."
 
+#: html not logged in
 msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
 
+#: html current time stamp
 msgid "current_time_is"
 msgstr "Nous sommes le %(current_time)s."
